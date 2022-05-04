@@ -9,7 +9,7 @@ If you're the type of person that can set up email on your smartphone, you likel
 
 ___
 #### Help Others Help You  
-Github makes it crazy simple for people to help with your site. Whether it's volunteers or paid contractors, you're always just a few clicks away from accepting improvements.       
+Github makes it crazy simple for people to help with your site. Whether it's volunteers or paid contractors, you're always just a few clicks away from accepting improvements     
 ___
 
 #### Features  
